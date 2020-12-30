@@ -1,0 +1,116 @@
+*
+{
+margin: 1;
+padding: 0;
+}
+
+h2
+{
+    font: bold 30px sans-serif;
+
+}
+header,nav,article,footer,aside,section
+{
+    
+    display: block;
+}
+body
+{
+    background-color: black;
+    text-align: center;
+}
+div
+{
+    background-color: #373535;
+    width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+}
+.titulo
+{
+    background: black; 
+    color: white;
+    width: 800px;
+    font-size: 90px;
+    font-family:monospace;
+    font-weight: bolder;
+    margin: 50px auto;
+    border: 3px solid white 
+}
+.navegacion
+{
+    background: black;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 1px;
+    width: 300px;
+    margin: auto;
+    border: 2px solid white;
+
+}
+.navegacion li
+{
+    color: white;
+    border: 5px solid white;
+    list-style: none;
+    padding: 5px;
+    display: inline-block;
+}
+.navegacion1
+{
+    background-color: black;
+    padding: 0px;
+    border: 1px solid white;
+
+}
+.section
+{
+    background: black;
+    border: 1px solid white;
+    width: 700px;
+    float: center;
+    
+}
+.titulos
+{
+    font-size: 30px;
+    color: white;
+    font-weight:lighter;
+    font-family:monospace;
+    
+
+    
+}
+p
+{
+    background-color:  #3A3939;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding: 5px;
+    width: 690px;
+}
+.aside
+{
+    margin: 20px;
+    width: 150px;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+    float: right;
+    
+}
+.pie
+{
+    clear: both;
+    color: white;
+}
+a
+{
+    color: red;
+    font-size: 50px;
+}
+img
+{
+    width: 400px; 
+}
